@@ -23,6 +23,9 @@ dependencies {
 
     // This dependency is used by the application.
     implementation libs.guava
+
+    //Password Generator
+    implementation 'io.github.cemiltokatli.passwordgenerator:password-generator:1.0'
 }
 
 // Apply a specific Java toolchain to ease working on different environments.
